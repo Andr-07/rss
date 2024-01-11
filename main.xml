@@ -45,5 +45,14 @@
       <enclosure url="https://res.cloudinary.com/admitad-gmbh/image/upload/v1703248871/khp1zisz2uesqlrhe2zz.png" length="12345" type="image/jpeg" />
     </item>
 
+    <item>
+      <title>Проверка истекшей публикации</title>
+      <link>https://www.example.com/news/special2</link>
+      <description>Отправиться или нет</description>
+      <pubDate>Thu, 11 Jan 2024 10:20:36 GMT</pubDate>
+      <guid>8fe9c3a5-d514-4fac-85a9-3298b8e3e281</guid>
+      <enclosure url="https://res.cloudinary.com/admitad-gmbh/image/upload/v1703248871/khp1zisz2uesqlrhe2zz.png" length="12345" type="image/jpeg" />
+    </item>
+
   </channel>
 </rss>
