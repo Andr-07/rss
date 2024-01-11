@@ -37,5 +37,13 @@
       <pubDate>Wed, 11 Jan 2024 03:56:00 -0500</pubDate>
       <dc:creator>Andrei L</dc:creator>
     </item>
+    <item>
+      <title>Случайная новость</title>
+      <link>https://www.example.com/random-news</link>
+      <guid isPermaLink="false">0b77352a62389a723aab47vf18568c3</guid>
+      <description>Описание случайной новости</description>
+      <pubDate>Thu, 11 Jan 2024 15:30:00 -0500</pubDate>
+      <dc:creator>Random Author</dc:creator>
+    </item>
   </channel>
 </rss>
