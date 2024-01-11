@@ -21,5 +21,12 @@
       <pubDate>Thu, 13 Jan 2022 12:30:00 GMT</pubDate>
     </item>
 
+    <item>
+      <title>Example News 3</title>
+      <link>https://www.example.com/news/3</link>
+      <description>This is the third example news item.</description>
+      <pubDate>Thu, 13 Jan 2022 12:30:00 GMT</pubDate>
+    </item>
+
   </channel>
 </rss>
