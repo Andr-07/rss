@@ -17,5 +17,13 @@
       <pubDate>Thu, 11 Jan 2024 16:45:00 -0500</pubDate>
       <dc:creator>English News Author2</dc:creator>
     </item>
+    <item>
+      <title>Random News in English 3</title>
+      <link>https://www.example.com/random-english-news3</link>
+      <guid isPermaLink="false">d506d90d-6f05-4c64-bcfd-c56c03ee6775</guid>
+      <description>This is a random news item in English3.</description>
+      <pubDate>Thu, 11 Jan 2024 16:53:00 -0500</pubDate>
+      <dc:creator>English News Author3</dc:creator>
+    </item>
   </channel>
 </rss>
