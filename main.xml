@@ -1,49 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>The Christian Science Monitor | USA</title>
-    <link>https://www.csmonitor.com</link>
-    <description>US national news from The Christian Science Monitor.</description>
-    <language>en-us</language>
-    <copyright>Christian Science Monitor. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 11 Jan 2024 02:13:59 EST</lastBuildDate>
-    <ttl>300</ttl>
-    <image>
-      <title>The Christian Science Monitor | USA</title>
-      <url>https://www.csmonitor.com/extension/csm_base/design/csm_design/images/csmlogo_250x30.png</url>
-      <link>https://www.csmonitor.com</link>
-    </image>
-    <atom:link rel="self" type="application/rss+xml" href="https://rss.csmonitor.com/feeds/usa"/>
     <item>
-      <title>Ярик выпил пиво?</title>
-      <link>https://www.csmonitor.com/USA/2024/0110/Will-Texas-tough-work-in-fighting-fentanyl-fatalities?icid=rss</link>
-      <guid isPermaLink="false">0b77352a620ed4a7f423aab47188c1c2</guid>
-      <description>Вчера Ярик купил пиво и выпил егою</description>
-      <pubDate>Wed, 11 Jan 2024 12:49:00 -0500</pubDate>
-      <dc:creator>Henry Gass</dc:creator>
-    </item>
-    <item>
-      <title>Ярик купил пиво?</title>
-      <link>https://www.csmonitor.com/USA/2024/0110/Will-Texas-tough-work-in-fighting-fentanyl-fatalities</link>
-      <guid isPermaLink="false">0b77352a620ed4a7f423aab47188c1c3</guid>
-      <description>Вчера Ярик купил пиво и выпил его</description>
-      <pubDate>Wed, 11 Jan 2024 12:56:00 -0500</pubDate>
-      <dc:creator>Andrei L</dc:creator>
-    </item>
-    <item>
-      <title>Ярик точно купил пиво?</title>
-      <link>https://www.csmonitor.com/USA/2024/0110/Will-Texas-tough-work-in-fighting-fentanyl-fatalities</link>
-      <guid isPermaLink="false">0b77352a623df4a723aab47vf188c1c3</guid>
-      <description>Вчера Ярик точно купил пиво и выпил его</description>
-      <pubDate>Wed, 11 Jan 2024 03:56:00 -0500</pubDate>
-      <dc:creator>Andrei L</dc:creator>
-    </item>
-    <item>
-      <title>Случайная новость</title>
-      <link>https://www.example.com/random-news</link>
-      <guid isPermaLink="false">0b77352a62389a723aab47vf18568c3</guid>
-      <description>Описание случайной новости</description>
-      <pubDate>Thu, 11 Jan 2024 15:30:00 -0500</pubDate>
-      <dc:creator>Random Author</dc:creator>
+      <title>Random News in English</title>
+      <link>https://www.example.com/random-english-news</link>
+      <guid isPermaLink="false">RANDOM_ENGLISH_GUID_HERE</guid>
+      <description>This is a random news item in English.</description>
+      <pubDate>Thu, 11 Jan 2024 16:45:00 -0500</pubDate>
+      <dc:creator>English News Author</dc:creator>
     </item>
   </channel>
 </rss>
