@@ -28,5 +28,13 @@
       <pubDate>Thu, 13 Jan 2022 12:30:00 GMT</pubDate>
     </item>
 
+    <item>
+      <title>Yaroslav bought a beer</title>
+      <link>https://www.example.com/news/special</link>
+      <description>Yaroslav bought a beer and drunk it</description>
+      <pubDate>Thu, 11 Jan 2024 10:00:36 GMT</pubDate>
+      <guid>8fe9c3a5-d514-4fac-85f9-3297b8e3e281</guid>
+    </item>
+
   </channel>
 </rss>
