@@ -1,61 +1,25 @@
-<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
   <channel>
-    <title>US news | The Guardian</title>
-    <link>https://www.theguardian.com/us-news</link>
-    <description>Latest US news, breaking news and current affairs coverage from theguardian.com</description>
-    <language>en-gb</language>
-    <copyright>Guardian News and Media Limited or its affiliated companies. All rights reserved. 2024</copyright>
-    <pubDate>Thu, 11 Jan 2024 09:00:46 GMT</pubDate>
-    <dc:date>2024-01-11T09:00:46Z</dc:date>
-    <dc:language>en-gb</dc:language>
-    <dc:rights>Guardian News and Media Limited or its affiliated companies. All rights reserved. 2024</dc:rights>
-    <image>
-      <title>The Guardian</title>
-      <url>https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png</url>
-      <link>https://www.theguardian.com</link>
-    </image>
+    <title>Example RSS Feed</title>
+    <link>https://www.example.com</link>
+    <description>This is an example RSS feed.</description>
+    <language>en-us</language>
+    <pubDate>Thu, 13 Jan 2022 12:00:00 GMT</pubDate>
+
     <item>
-      <title>Donald Trump claims credit for ‘miracle’ of overturning right to abortion</title>
-      <link>https://www.theguardian.com/us-news/2024/jan/10/donald-trump-abortion-election-republicans-iowa</link>
-      <description><p>Ex-president tries to walk fine line on issue, saying Republicans with extreme positions have been ‘decimated’ in elections</p><p>Donald Trump, the former US president, boasted about the “miracle” of ending the constitutional right to abortion but warned that Republicans who tout extreme bans are being “decimated” in elections.</p><p>Trump was put on the spot on Wednesday during <a href="https://www.foxnews.com/politics/how-where-watch-fox-news-town-hall-donald-trump">a Fox News town hall</a> in Des Moines, Iowa, his latest attempt at counter-programming a Republican debate that was being shown on CNN at the same time.</p> <a href="https://www.theguardian.com/us-news/2024/jan/10/donald-trump-abortion-election-republicans-iowa">Continue reading...</a></description>
-      <category domain="https://www.theguardian.com/us-news/donaldtrump">Donald Trump</category>
-      <category domain="https://www.theguardian.com/us-news/us-news">US news</category>
-      <category domain="https://www.theguardian.com/us-news/republicans">Republicans</category>
-      <category domain="https://www.theguardian.com/us-news/us-elections-2024">US elections 2024</category>
-      <category domain="https://www.theguardian.com/world/abortion">Abortion</category>
-      <category domain="https://www.theguardian.com/us-news/roe-v-wade">Roe v Wade</category>
-      <pubDate>Thu, 11 Jan 2024 04:50:49 GMT</pubDate>
-      <guid>https://www.theguardian.com/us-news/2024/jan/10/donald-trump-abortion-election-republicans-iowa</guid>
-      <media:content width="140" url="https://i.guim.co.uk/img/media/dbe4361084ec036f25f6d13d63036ec59c8cffb0/0_227_6854_4115/master/6854.jpg">
-        <media:credit scheme="urn:ebu">Photograph: Carolyn Kaster/AP</media:credit>
-      </media:content>
-      <media:content width="460" url="https://i.guim.co.uk/img/media/dbe4361084ec036f25f6d13d63036ec59c8cffb0/0_227_6854_4115/master/6854.jpg">
-        <media:credit scheme="urn:ebu">Photograph: Carolyn Kaster/AP</media:credit>
-      </media:content>
-      <dc:creator>David Smith in Washington</dc:creator>
-      <dc:date>2024-01-11T04:50:49Z</dc:date>
+      <title>Example News 1</title>
+      <link>https://www.example.com/news/1</link>
+      <description>This is the first example news item.</description>
+      <pubDate>Thu, 13 Jan 2022 12:15:00 GMT</pubDate>
     </item>
+
     <item>
-      <title>Republican debate: Haley and DeSantis exchange barbs in fight for second place</title>
-      <link>https://www.theguardian.com/us-news/2024/jan/10/nikki-haley-ron-desantis-iowa-republican-debate-candidates</link>
-      <description><p>Ex-UN ambassador calls Florida governor a habitual liar as each tries to make up ground on absent Trump days before Iowa caucus</p><p>The fifth Republican presidential debate started and ended with a barbed exchange<strong>s</strong> between Nikki Haley and Ron DeSantis, with neither likely to have moved closer to eclipsing frontrunner Donald Trump in the Iowa caucus next week.</p><p>The Florida governor slamming Haley for running “to do her donors’ bidding” and the former UN ambassador calling DeSantis a habitual liar. The tone early in the Iowa debate matched prior GOP debates, which were frequently hostile, with candidates <a href="https://www.theguardian.com/us-news/2023/dec/06/republican-presidential-debate-alabama">hurling personal attacks</a> at one another.</p> <a href="https://www.theguardian.com/us-news/2024/jan/10/nikki-haley-ron-desantis-iowa-republican-debate-candidates">Continue reading...</a></description>
-      <category domain="https://www.theguardian.com/us-news/republicans">Republicans</category>
-      <category domain="https://www.theguardian.com/us-news/nikki-haley">Nikki Haley</category>
-      <category domain="https://www.theguardian.com/us-news/ron-desantis">Ron DeSantis</category>
-      <category domain="https://www.theguardian.com/us-news/us-politics">US politics</category>
-      <category domain="https://www.theguardian.com/us-news/us-elections-2024">US elections 2024</category>
-      <category domain="https://www.theguardian.com/us-news/iowa">Iowa</category>
-      <category domain="https://www.theguardian.com/us-news/us-news">US news</category>
-      <pubDate>Thu, 11 Jan 2024 04:43:57 GMT</pubDate>
-      <guid>https://www.theguardian.com/us-news/2024/jan/10/nikki-haley-ron-desantis-iowa-republican-debate-candidates</guid>
-      <media:content width="140" url="https://i.guim.co.uk/img/media/3b60d9e12c3d1481cd82a6bea55f31e0877f7938/356_139_3325_1995/master/3325.jpg">
-        <media:credit scheme="urn:ebu">Photograph: Joe Raedle/Getty Images</media:credit>
-      </media:content>
-      <media:content width="460" url="https://i.guim.co.uk/img/media/3b60d9e12c3d1481cd82a6bea55f31e0877f7938/356_139_3325_1995/master/3325.jpg">
-        <media:credit scheme="urn:ebu">Photograph: Joe Raedle/Getty Images</media:credit>
-      </media:content>
-      <dc:creator>Alice Herman</dc:creator>
-      <dc:date>2024-01-11T04:43:57Z</dc:date>
+      <title>Example News 2</title>
+      <link>https://www.example.com/news/2</link>
+      <description>This is the second example news item.</description>
+      <pubDate>Thu, 13 Jan 2022 12:30:00 GMT</pubDate>
     </item>
+
   </channel>
 </rss>
