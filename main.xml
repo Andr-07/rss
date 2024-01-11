@@ -9,5 +9,13 @@
       <pubDate>Thu, 11 Jan 2024 16:45:00 -0500</pubDate>
       <dc:creator>English News Author</dc:creator>
     </item>
+    <item>
+      <title>Random News in English 2</title>
+      <link>https://www.example.com/random-english-news2</link>
+      <guid isPermaLink="false">8dad66c2-3463-4844-81c9-600f1ee59219</guid>
+      <description>This is a random news item in English2.</description>
+      <pubDate>Thu, 11 Jan 2024 16:45:00 -0500</pubDate>
+      <dc:creator>English News Author2</dc:creator>
+    </item>
   </channel>
 </rss>
